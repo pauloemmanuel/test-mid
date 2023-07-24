@@ -6,10 +6,6 @@ The questions are divided into directories, each of which contains a response fo
 
 You can see the questions below:
 
-# Requirements
-
-- PHP running on the machine where the tests will be run
-- A terminal available to enter the input values
 ### Algorithm exercise - Factorial:
 Write a function that takes a positive integer as input and returns the factorial of that number.
 For example, if the given number is 5, the function should return 120 (1 * 2 * 3 * 4 * 5).
@@ -36,3 +32,8 @@ Write a function that calculates the nth number in the Fibonacci sequence. The F
 sequence is formed by adding the two previous numbers, starting with 0 and 1 (or 1 and 1,
 depending on the initial order), and the first numbers in the sequence are: 0, 1, 1, 2, 3, 5, 8,
 13, ..
+
+# Requirements
+
+- PHP running on the machine where the tests will be run
+- A terminal available to enter the input values
