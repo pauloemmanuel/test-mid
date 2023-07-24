@@ -1,0 +1,37 @@
+body {
+  font-family: Georgia, Times, 'Times New Roman', serif, sans-serif;
+  margin: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  margin:0px auto;
+  max-width: 90vw;
+}
+
+input, textarea {
+  margin: 5px 0;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin:10px 0px;
+  cursor: pointer;
+}
+
+#contact-data {
+  margin-top: 20px;
+}
+
+#title {
+  text-align: center;
+}
